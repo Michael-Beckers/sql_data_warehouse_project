@@ -1,11 +1,11 @@
 # Data Warehouse Project
 
 Welcome to my **Data Warehouse and Analytics Project**  
-This project demonstrates a comprehensive data warehousing solution by implementing an ETL process from scratch to integrate customer and product datasets.
+This project presents a complete data warehousing solution by implementing an ETL process from scratch to integrate customer and product datasets.
 
 
 ---
-## 🏗️ Data Architecture
+## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/DataWarehouse_Architecture.png)
