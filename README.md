@@ -1,7 +1,8 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 
 Welcome to my **Data Warehouse and Analytics Project**  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+This project demonstrates a comprehensive data warehousing solution by implementing an ETL process from scratch to integrate customer and product datasets.
+
 
 ---
 ## 🏗️ Data Architecture
