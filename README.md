@@ -32,3 +32,13 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 1. **Bronze Layer**: Contains raw data ingested directly from source systems, with CSV files loaded into a SQL Server database without transformation.
 2. **Silver Layer**: Focuses on data cleansing, standardization, and normalization to ensure consistency and analytical readiness.
 3. **Gold Layer** : Stores business-ready data structured in a star schema to support reporting and advanced analytics.
+
+
+## 🌟 About Me
+
+Hi! I'm **Michael Beckers**. I’m a recent Msc graduate in the field of A.I. with a passion for data. For this project, my aim was to further develop my data engineering skills in order to incorporate them in future projects.
+
+Let's stay in touch! Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-beckers)
+
